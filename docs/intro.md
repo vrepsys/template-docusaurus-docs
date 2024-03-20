@@ -1,48 +1,11 @@
----
-sidebar_position: 1
-slug: /
----
-
 # Getting Started
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Welcome to your documentation website. Let's get you started!
 
-### Installation
+## Publish your project to the web
 
-```
-$ yarn
-```
+We recommend that you start by publishing your project to the web. Here's how you can do deploy it for free to [Vercel](https://vercel.com).
 
-### Local Development
+Click on the tree dots at the top right corner of the screen and click _Publish to Vercel._
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**.
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+![](/img/publish-button.png)
