@@ -1,3 +1,7 @@
+---
+slug: /
+---
+
 # Getting Started
 
 Welcome to your documentation website. Let's get you started!
